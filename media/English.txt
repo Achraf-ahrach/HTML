@@ -1,0 +1,170 @@
+I'll show you how to convert any video
+
+file to an mp4 if you found this guide
+
+useful then please consider subscribing
+
+once you've done that then please
+
+consider leaving a like and let's get
+
+right into this guy here's a video file
+
+I have on my desktop here and as you can
+
+see this is an MKV file I want to go
+
+make it an mp4 file however this guide
+
+is going to apply for all different
+
+types of video formats so let's get
+
+right into this the first thing you need
+
+to do is go and open up a web browser
+
+like Google Chrome first thing you need
+
+to do is go and open up a web browser so
+
+I'm just going to use Google Chrome but
+
+you can use any and then go to a search
+
+engine like Google and you need to go
+
+and search for a tool called VLC media
+
+player so go and type that in and this
+
+is a free tool both for Windows and Mac
+
+so make sure you go to the official
+
+website which is invideoland.org just
+
+like so and then go and tap on the
+
+download button and the download should
+
+then begin now what you'll then need to
+
+do is wait for this to finish
+
+downloading it's just starting now once
+
+it's finished downloading you can then
+
+go and close your browser and what
+
+you'll need to do is going to find the
+
+installer file which should be in your
+
+downloads folder and what you'll need to
+
+do is double click on it and just run
+
+through the installation instructions
+
+it's just like installing any other app
+
+and then what you'll need to do is go
+
+and open up VLC so what I did is just
+
+search for it and to open it up and once
+
+you've opened it up we can now go and
+
+use this go convert the file to an mp4
+
+so go and click on media in VLC and then
+
+go and tap on convert save and what we
+
+first need to do is go and select the
+
+file we want to go and convert so I'm
+
+going to click on ADD and the file I
+
+want to convert is on my desktop and
+
+it's this one here so click on it once
+
+and click open then once you've done
+
+that go click and convert and Save in
+
+the bottom right and then what you need
+
+to do is make sure convert is selected
+
+come down to profile and the profile I
+
+use is top one here h 2.64 plus MP3 and
+
+that is an mp4 file so tap there but
+
+what I like to do is quickly go make a
+
+configuration so go to the right and
+
+click on this um sort of spanner which
+
+is edit selected profile and then go and
+
+press on audio codec and I like to go
+
+and keep the original audio track and
+
+then go tap save and then just before we
+
+go and Press Start we need to choose
+
+where you want this new file to be saved
+
+to so go click on browse and then you
+
+need to go and choose we want it to be
+
+saved so I'm going to go and put this
+
+onto my desktop so I'm going to name it
+
+finished and just make sure after you've
+
+entered the file name you put dot MP4
+
+just like this then in the bottom right
+
+click save and then you can go and press
+
+start like this and you can then go and
+
+see the progress as it moves across now
+
+for me that didn't take long at all
+
+because the video is only five seconds
+
+however if you've got a longer video
+
+that will take a bit longer but yeah
+
+here is our new file as you can see I'll
+
+put next to each other when I go and
+
+hover over it as you can see it's now an
+
+mp4 and this one is an MKV but they're
+
+exactly the same they're both five
+
+seconds so if you guys found this useful
+
+please consider leaving a like peace
+
